@@ -1,6 +1,6 @@
 import { FaAmbulance , FaSyringe , FaStethoscope , FaBriefcaseMedical  } from "react-icons/fa";
 import { TbMedicineSyrup } from "react-icons/tb";
-import { Link } from "react-router-dom";
+
 import Slider from "react-slick";
 
 const settings = {

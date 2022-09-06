@@ -12,7 +12,7 @@ function Footer(){
                         <div className="widget widget-info">
                             <div className="footer-logo">
                                <Link to={'/'}>
-                                <img src={logo}/>
+                                <img src={logo} alt=""/>
                                </Link>
                             </div>
                             <div className='ft-contact'>

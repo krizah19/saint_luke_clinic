@@ -43,9 +43,9 @@ function Account(){
                     </div>
                     <div className="col-xl-7 col-lg-6 col-md-6 col-sm-12">
                         <div className="appointment-thumb">
-                            <img src={MobileImg}/>
+                            <img src={MobileImg} alt=""/>
                             <div className='images-group'>
-                                <img className='img1' src={WomanImg}/>
+                                <img className='img1' src={WomanImg} alt=""/>
                             </div>
                         </div>
                     </div>

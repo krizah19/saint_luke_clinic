@@ -28,7 +28,7 @@ function Banner(){
                <h5>Protect your Health and take Care of your Health.</h5>
            </div>
            <div className="col-lg-5 col-md-5">
-              <img src={headerImage}/>
+              <img src={headerImage} alt=""/>
            </div>
         </div>
        </div>
