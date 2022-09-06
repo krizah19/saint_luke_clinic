@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import logo from '../Assets/download.png';
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from 'react-router-dom';
-
+import Footer from "../Sections/footer";
 
 window.onscroll = function() {myFunction()};
 
@@ -24,7 +24,7 @@ function NavBars(){
         <Navbar expand="lg">
       <Container fluid>
         <Link to={"/home"} className='navbar-brand'>
-            <img src={logo} title="logo" alt=""/>
+            <img src={logo} title="logo"/>
         </Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

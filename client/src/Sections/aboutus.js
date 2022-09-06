@@ -15,13 +15,13 @@ function AboutUs(){
             <div className="about-images">
               <ul>
                 <li>
-                  <img className='img1' src={abouti1} alt=""/>
+                  <img className='img1' src={abouti1}/>
                 </li>
                 <li>
-                  <img className='img2' src={abouti2} alt=""/>
+                  <img className='img2' src={abouti2}/>
                 </li>
                 <li>
-                  <img className='img3' src={abouti3} alt=""/>
+                  <img className='img3' src={abouti3}/>
                 </li>
                 <li>
                   <div className='exp-bx'>
