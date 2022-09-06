@@ -53,14 +53,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg1} alt="description of image"/>
+                        <img src={Cardimg1} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member1}/>
+                            <img src={member1} alt=""/>
                             John deo
                         </Link>
                        </li>
@@ -83,14 +83,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg2}/>
+                        <img src={Cardimg2} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member2}/>
+                            <img src={member2} alt=""/>
                             Peter Packer
                         </Link>
                        </li>
@@ -113,14 +113,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg3}/>
+                        <img src={Cardimg3} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member3}/>
+                            <img src={member3} alt=""/>
                             Sonar Moyna
                         </Link>
                        </li>
@@ -143,14 +143,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg4}/>
+                        <img src={Cardimg4} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member4}/>
+                            <img src={member4} alt=""/>
                             Kalina Mollika
                         </Link>
                        </li>
@@ -173,14 +173,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg5}/>
+                        <img src={Cardimg5} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member5}/>
+                            <img src={member5} alt=""/>
                             Michel
                         </Link>
                        </li>
@@ -203,14 +203,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg6}/>
+                        <img src={Cardimg6} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member1}/>
+                            <img src={member1} alt=""/>
                             Peter Packer
                         </Link>
                        </li>
@@ -233,14 +233,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg7}/>
+                        <img src={Cardimg7} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member2}/>
+                            <img src={member2} alt=""/>
                             Sonar Moyna
                         </Link>
                        </li>
@@ -263,14 +263,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg8}/>
+                        <img src={Cardimg8} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member3}/>
+                            <img src={member3} alt=""/>
                             Kalina
                         </Link>
                        </li>
@@ -293,14 +293,14 @@ function Blog(){
                <div className="blog-card">
                 <div className="post-media">
                     <Link to={"/blogdetails"}>
-                        <img src={Cardimg9}/>
+                        <img src={Cardimg9} alt=""/>
                     </Link>
                 </div>
                 <div className="post-info">
                     <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member4}/>
+                            <img src={member4} alt=""/>
                             Michel
                         </Link>
                        </li>

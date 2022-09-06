@@ -5,7 +5,7 @@ import './about.css';
 import '../index.css';
 import './contact.css';
 import { FiHome } from "react-icons/fi";
-import { FaMapMarkedAlt , FaIdBadge , FaFacebookF , FaTwitter , FaInstagram , FaLinkedin} from "react-icons/fa";
+import { FaMapMarkedAlt , FaIdBadge , FaTwitter , FaInstagram , FaLinkedin} from "react-icons/fa";
 import { TbWorld } from "react-icons/tb";
 import { Link } from 'react-router-dom';
 

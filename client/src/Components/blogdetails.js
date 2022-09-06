@@ -53,13 +53,13 @@ function BlogDetails(){
                 <div className="col-md-12 col-lg-7 col-xl-8 mb-30 mb-md-50">
                     <div className="blog-card blog-single">
                         <div className="post-media">
-                            <img src={Card1} alt="description of image"/>
+                            <img src={Card1} alt=""/>
                         </div>
                         <div className="info-bx">
                         <ul className="post-meta">
                        <li className="author">
                         <Link to={"/blogdetails"}>
-                            <img src={member1} alt="description of image"/>
+                            <img src={member1} alt=""/>
                             John deo
                         </Link>
                        </li>
@@ -92,10 +92,10 @@ function BlogDetails(){
                             </p>
                             <ul className="wp-block-gallery columns-6 is-cropped">
                                 <li className="blocks-gallery-item">
-                                    <img src={Cardm1} alt="description of image"/>
+                                    <img src={Cardm1} alt=""/>
                                 </li>
                                 <li className="blocks-gallery-item">
-                                    <img src={Cardm2} alt="description of image"/>
+                                    <img src={Cardm2} alt=""/>
                                 </li>
                             </ul>
                             <p>You just need to enter the keyword and select the keyword 
@@ -151,7 +151,7 @@ function BlogDetails(){
                     <div className="author-box blog-user mb-50">
                         <div className="author-profile-info">
                             <div className="author-profile-pic">
-                              <img src={Comimg} alt="description of image"/>
+                              <img src={Comimg} alt=""/>
                             </div>
                             <div className="author-profile-content">
                                 <h5>Sonar Z. Moyna</h5>
@@ -192,7 +192,7 @@ function BlogDetails(){
                                     <li className="comment">
                                         <div className="comment-body">
                                             <div className="comment-author vcard">
-                                                <img src={member2} className="avatar photo" alt="description of image"/>
+                                                <img src={member2} className="avatar photo" alt=""/>
                                                 <div className="clearfix">
                                                     <cite className="fn">George</cite>
                                                     <span className="says">says:</span>
@@ -214,7 +214,7 @@ function BlogDetails(){
                                             <li className="comment odd parent">
                                             <div className="comment-body">
                                             <div className="comment-author vcard">
-                                                <img src={member1} className="avatar photo" alt="description of image"/>
+                                                <img src={member1} className="avatar photo" alt=""/>
                                                 <div className="clearfix">
                                                     <cite className="fn">Falikaz</cite>
                                                     <span className="says">says:</span>
@@ -238,7 +238,7 @@ function BlogDetails(){
                                     <li className="comment">
                                         <div className="comment-body">
                                             <div className="comment-author vcard">
-                                                <img src={member2} className="avatar photo" alt="description of image"/>
+                                                <img src={member2} className="avatar photo" alt=""/>
                                                 <div className="clearfix">
                                                     <cite className="fn">Sonar</cite>
                                                     <span className="says">says:</span>
@@ -260,7 +260,7 @@ function BlogDetails(){
                                     <li className="comment">
                                         <div className="comment-body">
                                             <div className="comment-author vcard">
-                                                <img src={member1} className="avatar photo" alt="description of image"/>
+                                                <img src={member1} className="avatar photo" alt=""/>
                                                 <div className="clearfix">
                                                     <cite className="fn">Michel</cite>
                                                     <span className="says">says:</span>
@@ -320,7 +320,7 @@ function BlogDetails(){
                             <div className="widget-post-bx">
                                 <div className="widget-post clearfix">
                                     <div className="ttr-post-media">
-                                       <img src={Cardimg1} alt="description of image"/>
+                                       <img src={Cardimg1} alt=""/>
                                     </div>
                                     <div className="ttr-post-info">
                                         <div className="ttr-post-header">
@@ -338,7 +338,7 @@ function BlogDetails(){
                                 </div>
                                 <div className="widget-post clearfix">
                                     <div className="ttr-post-media">
-                                       <img src={Cardimg2} alt="description of image"/>
+                                       <img src={Cardimg2} alt=""/>
                                     </div>
                                     <div className="ttr-post-info">
                                         <div className="ttr-post-header">
@@ -356,7 +356,7 @@ function BlogDetails(){
                                 </div>
                                 <div className="widget-post clearfix">
                                     <div className="ttr-post-media">
-                                       <img src={Cardimg3} alt="description of image"/>
+                                       <img src={Cardimg3} alt=""/>
                                     </div>
                                     <div className="ttr-post-info">
                                         <div className="ttr-post-header">
@@ -379,22 +379,22 @@ function BlogDetails(){
                             <div>
                                 <ul className="magnific-image">
                                   <li>
-                                    <img src={Cardm1} alt="description of image"/>
+                                    <img src={Cardm1} alt=""/>
                                   </li>
                                   <li>
-                                    <img src={Cardm2} alt="description of image"/>
+                                    <img src={Cardm2} alt=""/>
                                   </li>
                                   <li>
-                                    <img src={Cardm3} alt="description of image"/>
+                                    <img src={Cardm3} alt=""/>
                                   </li>
                                   <li>
-                                    <img src={Cardm4} alt="description of image"/>
+                                    <img src={Cardm4} alt=""/>
                                   </li>
                                   <li>
-                                    <img src={Cardm5} alt="description of image"/>
+                                    <img src={Cardm5} alt=""/>
                                   </li>
                                   <li>
-                                    <img src={Cardm6} alt="description of image"/>
+                                    <img src={Cardm6} alt=""/>
                                   </li>
                                 </ul>
                             </div>

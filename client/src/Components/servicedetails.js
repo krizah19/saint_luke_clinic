@@ -44,7 +44,7 @@ function ServiceDetails(){
             <div className="row">
                 <div className="col-lg-8 mb-30">
                     <div className="ttr-media mb-30">
-                        <img src={Service1} className="rounded"/>
+                        <img src={Service1} className="rounded" alt=""/>
                     </div>
                     <div className="clearfix">
                         <div className="head-text mb-30">
@@ -235,12 +235,12 @@ function ServiceDetails(){
                                Download
                             </h5>
                             <Link to={"/servicedetails"} className="download-link">
-                                <img src={Down1}/>
+                                <img src={Down1} alt=""/>
                                 <h5 className="title">Download our Brochures</h5>
                                 <span>Download</span>
                             </Link>
                             <Link to={"/servicedetails"} className="download-link">
-                                <img src={Down2}/>
+                                <img src={Down2} alt=""/>
                                 <h5 className="title">Our Company Details</h5>
                                 <span>Download</span>
                             </Link>

@@ -10,7 +10,7 @@ function Login(){
                 <div className='col-xl-5 col-lg-6 col-md-8'>
                     <div className='appointment-form form-wraper'>
                         <div className='logo'>
-                            <img src={logo}/>
+                            <img src={logo} alt=""/>
                         </div>
                         <form action='#'>
                         <div className="form-group">

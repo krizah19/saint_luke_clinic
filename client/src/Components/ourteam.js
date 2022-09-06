@@ -42,7 +42,7 @@ function OurTeam(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member">
                         <div className="team-media">
-                            <img src={member4}/>
+                            <img src={member4} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
@@ -72,7 +72,7 @@ function OurTeam(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member">
                         <div className="team-media">
-                            <img src={member5}/>
+                            <img src={member5} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
@@ -102,7 +102,7 @@ function OurTeam(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member">
                         <div className="team-media">
-                            <img src={member6}/>
+                            <img src={member6} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
