@@ -7,7 +7,7 @@ import News from '../Sections/news';
 import Footer from '../Sections/footer';
 import ToTop from '../Sections/totop';
 import Accordion from 'react-bootstrap/Accordion';
-import { FaChevronDown } from "react-icons/fa";
+
 import { Link } from 'react-router-dom';
 
 function FaqS(){
