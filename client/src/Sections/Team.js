@@ -16,7 +16,7 @@ function Team(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member">
                         <div className="team-media">
-                            <img src={member1}/>
+                            <img src={member1} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
@@ -46,7 +46,7 @@ function Team(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member active">
                         <div className="team-media">
-                            <img src={member2}/>
+                            <img src={member2} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
@@ -76,7 +76,7 @@ function Team(){
                 <div className="col-lg-4 col-sm-6 mb-30">
                     <div className="team-member">
                         <div className="team-media">
-                            <img src={member3}/>
+                            <img src={member3} alt=""/>
                         </div>
                         <div className="team-info">
                             <div className="team-info-comntent">
