@@ -42,8 +42,8 @@ function Services(){
             <div className='col-xl-4 col-lg-7 mb-30 bhover'>
                 <div className='heading-bx'>
                     <h6 className='title-ext'>Services</h6>
-                    <h2 className='title'>We Cover A Big Variety Of Medical Services</h2>
-                    <p>We provide the Consulatation and Healthcare Treatment at a high level best.</p>
+                    <h2 className='title'>We Offer A Big Variety Of Medical Services</h2>
+                    <p>We provide Consulatations and Healthcare Treatment at a high level best.</p>
                 </div>
                
             </div>
