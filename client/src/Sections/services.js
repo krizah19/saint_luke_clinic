@@ -96,7 +96,7 @@ function Services(){
 
                     <div className='icon-content'>
                         <h3 className='ttr-title'>Diagnostics</h3>
-                        <p>Get in touch with us for Laboratory tests and investigations Services.</p>
+                        <p>Visit us for Laboratory tests and investigations Services.</p>
                         
                     </div>
                 </div>
