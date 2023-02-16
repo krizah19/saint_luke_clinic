@@ -70,7 +70,7 @@ function Services(){
 
                     <div className='icon-content'>
                         <h3 className='ttr-title'>Vaccine</h3>
-                        <p>Get in touch with us for Child welfare clinic and immunization Services</p>
+                        <p>Visit us for Child welfare clinic and immunization Services</p>
                         
                     </div>
                 </div>
